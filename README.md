@@ -2,8 +2,8 @@
 
 - 🛍 I'm currently working on Shopify Projects 
 - 🍒 I'm currently learning JavaScript
-- 💬 Ask me about Shopify Store Setup
-- 📬 How to reach me: isaac.wellish@gmail.com
+- 💬 Ask me about Shopify Theme Customizations
+- 📬 How to reach me: info@isaacwellish.com
 
 <h3>Things I code with</h3>
 <p>
